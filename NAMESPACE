@@ -1,0 +1,13 @@
+export(PP_voisins)
+export(forest.fire.plot)
+export(forest.fire)
+
+export(isEqual)
+export(inequality)
+export(plotPoints)
+export(test)
+export(mysinus)
+export(checkAreaC)
+export(isEqualVecotrs)
+export(newF)
+
